@@ -1,2 +1,2 @@
-# titanic-Machine-Learnin-from-Disaster
+# titanic-Machine-Learning-from-Disaster
  Kaggle Competition
